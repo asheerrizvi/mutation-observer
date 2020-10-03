@@ -1,0 +1,11 @@
+.container {
+    height: 100vh
+}
+
+.progress {
+    border-radius: 9999px;
+}
+
+.progress-bar {
+    border-radius: 9999px;
+}
